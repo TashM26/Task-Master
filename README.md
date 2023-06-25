@@ -21,12 +21,10 @@
 
 # Screens
 <div align = "center">
-  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/98e92693-81ed-44c6-a51b-6c3169968543" width = "300">
-  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/7a3e6df2-2757-4158-87f9-a4db458515e0" width = "300">
-</div>
-<div align = "center">
-  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/fd9141a7-e50e-491c-a883-fc0cc98f279a" width = "300">
-  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/96601799-cd2a-4540-9e82-66b2f1f2c419" width = "300">
+  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/98e92693-81ed-44c6-a51b-6c3169968543" width = "200">
+  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/7a3e6df2-2757-4158-87f9-a4db458515e0" width = "200">
+  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/fd9141a7-e50e-491c-a883-fc0cc98f279a" width = "200">
+  <img src = "https://github.com/TashM26/Task-Master/assets/137183001/96601799-cd2a-4540-9e82-66b2f1f2c419" width = "200">
 </div>
 
 # Reach me
